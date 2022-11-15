@@ -4,9 +4,9 @@ This can get the complete device information and application information and net
 
 ## Devices
 * Android
-### * iOS
-### ** Web
-### *Linux
-### MacOS
-### Windows
-### Fuchsia
+* iOS
+* Web
+* Linux
+* MacOS
+* Windows
+* Fuchsia
