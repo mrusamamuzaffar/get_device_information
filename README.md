@@ -3,7 +3,7 @@
 This code can get the complete device information and application information and network information.
 - [x] Sound NullSafety
 
-:heavy_check_mark:
+✔️: Sound NullSafety
 
 ✅| Yep
 
