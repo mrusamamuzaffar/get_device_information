@@ -3,7 +3,7 @@
 This can get the complete device information and application information and network information.
 
 ## Devices
-### Android
+* Android
 ### iOS
 ### Web
 ### Linux
