@@ -11,8 +11,7 @@ This code can get the complete device information and application information an
 * Windows
 * Fuchsia
 
-## screenshot
-
+## screenshots - Mobile
 
 <p align="center">
   <img 
@@ -48,6 +47,8 @@ This code can get the complete device information and application information an
     height=40%
     src="https://user-images.githubusercontent.com/101565812/201965451-a9dc1326-4bd1-4707-a282-d5cae91c1b6d.jpg" >
 </p>
+
+## screenshots - Chrome (Windows)
 
 <p align="center">
   <img 
