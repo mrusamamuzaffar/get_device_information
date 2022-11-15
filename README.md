@@ -64,7 +64,7 @@ This code can get the complete device information and application information an
 
 <p align="center">
   <img 
-    width=40%
+    width=80%
     height=40%
     src="https://user-images.githubusercontent.com/101565812/201965753-6dc88267-f3e1-4464-bb6b-2245ff699d80.png" >
 </p>
@@ -73,7 +73,7 @@ This code can get the complete device information and application information an
 
 <p align="center">
   <img 
-    width=40%
+    width=80%
     height=40%
     src="https://user-images.githubusercontent.com/101565812/201965925-24762302-076d-4380-a053-73b5e9f8759f.png" >
 </p>
