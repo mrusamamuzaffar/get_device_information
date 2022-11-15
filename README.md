@@ -1,6 +1,6 @@
 # get_device_information - Flutter
 
-This can get the complete device information and application information and network information.
+This code can get the complete device information and application information and network information.
 
 ## Devices
 * Android
