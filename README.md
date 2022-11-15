@@ -13,7 +13,7 @@ This code can get the complete device information and application information an
 * Windows
 * Fuchsia
 
-## screenshots - Mobile
+## Screenshots - Mobile
 
 * 1
 
@@ -60,7 +60,7 @@ This code can get the complete device information and application information an
     src="https://user-images.githubusercontent.com/101565812/201965451-a9dc1326-4bd1-4707-a282-d5cae91c1b6d.jpg" >
 </p>
 
-## screenshots - Chrome (Windows)
+## Screenshots - Chrome (Windows)
 
 * 1
 
