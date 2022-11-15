@@ -1,11 +1,8 @@
 # get_device_information - Flutter
 
 This code can get the complete device information and application information and network information.
-- [x] Sound NullSafety
 
-✔️: Sound NullSafety
-
-✅| Yep
+✔️ Sound NullSafety
 
 ## Devices
 * Android
