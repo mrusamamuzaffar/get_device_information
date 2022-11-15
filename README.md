@@ -3,9 +3,7 @@
 This code can get the complete device information and application information and network information.
 - [x] Sound NullSafety
 
-Done? | Name
-:---:| ---
-⬜️| Nope
+
 ✅| Yep
 
 ## Devices
