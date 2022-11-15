@@ -13,13 +13,15 @@ This code can get the complete device information and application information an
 
 ## screenshots - Mobile
 
+* 1: 
+
 <p align="center">
   <img 
     width=40%
     height=40%
     src="https://user-images.githubusercontent.com/101565812/201964607-2c1c5388-095d-427d-8fd5-02dac7f4c74e.jpg" >
 </p>
-
+* 2: 
 <p align="center">
   <img 
     width=40%
